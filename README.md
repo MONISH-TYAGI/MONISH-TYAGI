@@ -13,13 +13,13 @@
 
 - 👨‍💻 All of my projects are available at [Github](Github)
 
-- 📝 I regularly write articles on [GFG & Interviewbit](GFG & Interviewbit)
+- 📝 I regularly write articles on [GFG & Interviewbit]
 
 - 💬 Ask me about **DSA & Mern Development**
 
 - 📫 How to reach me **Linkedln**
 
-- ⚡ Fun fact **We all are gonna Die.💀**
+- ⚡ Fun fact **We're all are gonna Die.💀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
