@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm MONISH TYAGI</h1>
 <h3 align="center">B.Tech(IT) Undergrad studying in BPIT(GGSIPU) have good grip on Data Structure & Algorithm with having skill of Mern Development.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=monish-tyagi&label=Profile%20views&color=0e75b6&style=flat" alt="monish-tyagi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=monish-tyagi" alt="monish-tyagi" /></a> </p>
-
 - 🌱 I’m currently learning **Backend Development**
 
 - 👯 I’m looking to collaborate on **Easy Wash👕🧼(Personal Project)**
@@ -36,7 +32,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=monish-tyagi&show_icons=true&locale=en&layout=compact" alt="monish-tyagi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=monish-tyagi&show_icons=true&locale=en" alt="monish-tyagi" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=monish-tyagi&label=Profile%20views&color=0e75b6&style=flat" alt="monish-tyagi" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=monish-tyagi" alt="monish-tyagi" /></a> </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=monish-tyagi&" alt="monish-tyagi" /></p>
 
