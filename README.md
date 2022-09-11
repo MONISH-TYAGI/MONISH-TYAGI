@@ -3,19 +3,19 @@
 
 - 🌱 I’m currently learning **Backend Development**
 
-- 👯 I’m looking to collaborate on **Easy Wash👕🧼(Personal Project)**
+- 👯 I’m looking to collaborate on **Easy Wash👕🧼(Personal Project)**.
 
-- 🤝 I’m looking for help with **AWS & CLoud Computing**
+- 🤝 I’m looking for help with **AWS & CLoud Computing**.
 
-- 👨‍💻 All of my projects are available at [Github](Github)
+- 👨‍💻 All of my projects are available at [Github](Github).
 
-- 📝 I often write articles on [GFG & Interviewbit]
+- 📝 I often write articles on [GFG & Interviewbit].
 
-- 💬 Ask me about **DSA & Mern Development**
+- 💬 Ask me about **DSA & Mern Development**.
 
-- 📫 How to reach me **Linkedln**
+- 📫 How to reach me **Linkedln**.
 
-- ⚡ Fun fact **We're all gonna Die.💀**
+- ⚡ Fun fact **We're all gonna Die.💀**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
