@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [Github](Github)
 
-- 📝 I regularly write articles on [GFG & Interviewbit]
+- 📝 I often write articles on [GFG & Interviewbit]
 
 - 💬 Ask me about **DSA & Mern Development**
 
