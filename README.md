@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MONISH TYAGI</h1>
-<h3 align="center">B.Tech(IT) Undergrad studying in BPIT(GGSIPU) have good grip on Data Structure & Algorithm with having skill of Mern Development.</h3>
+<h3 align="center">B.Tech(IT) Undergrad studying in BPIT(GGSIPU) have good grip on Data Structures & Algorithms with having skill of Mern Development.</h3>
 
 - 🌱 I’m currently learning **Backend Development**
 
