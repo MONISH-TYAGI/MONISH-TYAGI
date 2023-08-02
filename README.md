@@ -1,17 +1,19 @@
 <h1 align="center">Hi 👋, I'm MONISH TYAGI</h1>
 <h3 align="center">B.Tech(IT) Undergrad studying in BPIT(GGSIPU) have good grip on Data Structures & Algorithms with having skill of MERN Development.</h3>
 
-- 🌱 I’m currently learning **Backend Development**
-
-- 👯 I’m looking to collaborate on **Easy Wash👕🧼(Personal Project)**.
-
-- 🤝 I’m looking for help with **AWS & CLoud Computing**.
-
+- 🌱 I’m deep diving into **Backend Development**
+  
+- :man_technologist:  Worked as a Web Developer Intern in some orgranization.
+  
+-  🤝 I’m looking for help with **AWS & CLoud Computing**
+  
 - 👨‍💻 All of my projects are available at [Github](Github).
 
-- 📝 I often write articles on [GFG & Interviewbit].
-
 - 💬 Ask me about **DSA & Mern Development**.
+  
+- 👯 I’m looking to collaborate on **Easy Wash👕🧼(Personal Project)**.
+  
+- 📝 I often write articles on [GFG & Interviewbit].
 
 - 📫 How to reach me **Linkedln**.
 
