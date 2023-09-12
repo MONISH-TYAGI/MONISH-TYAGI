@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **Linkedln**.
 
-- ⚡ Fun fact **We're all gonna Die.💀**.
+- ⚡ Fun fact **We're all gonna Die.💀 & sb moh maya hai**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
