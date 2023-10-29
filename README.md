@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **Linkedln**.
 
-- ⚡ Fun fact **Even in free time , I listen podcast and read articles related to tech world**.
+- ⚡ Fun fact **Even in free time , I listen podcast and read articles related about upcoming technologies**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
