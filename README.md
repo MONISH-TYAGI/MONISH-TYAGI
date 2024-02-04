@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MONISH TYAGI</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-- 🌱 I’m deep diving into **Backend Development**
+- 🌱 I’m deep diving into **FullStack Development**
   
 - :man_technologist:  Worked as a Web Developer Intern in some orgranization.
   
