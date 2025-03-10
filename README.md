@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm MONISH TYAGI</h1>
 <h3 align="center">Full Stack Software Developer</h3>
 
-- 🌱 I’m deep diving into **FullStack Web Development , DSA & System Design**
-  
 - :man_technologist:  Software Engineer L1 @ Gemini.
+
+- 🌱 I’m deep diving into **FullStack Web Development , DSA & System Design**
   
 -  🤝 I’m looking for help with **DevOps**
   
