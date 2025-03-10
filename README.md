@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm MONISH TYAGI</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">Full Stack Software Developer</h3>
 
-- 🌱 I’m deep diving into **FullStack Development**
+- 🌱 I’m deep diving into **FullStack Web Development , DSA & System Design**
   
-- :man_technologist:  Worked as a Web Developer Intern in some orgranization.
+- :man_technologist:  Software Engineer L1 @ Gemini.
   
--  🤝 I’m looking for help with **AWS & CLoud Computing**
+-  🤝 I’m looking for help with **DevOps**
   
 - 👨‍💻 All of my projects are available at [Github](Github).
 
-- 💬 Ask me about **DSA & Mern Development**.
+- 💬 Ask me about **FullStack Web Development , DSA & System Design**.
   
 - 👯 I’m looking to collaborate on **Easy Wash👕🧼(Personal Project)**.
   
